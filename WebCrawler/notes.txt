@@ -1,0 +1,24 @@
+https://www.immobilienscout24.de/
+
+Result :-
+
+<ul id="resultListItems" class="is24-res-list is24-res-gallery result-list border-top">
+	<li class="result-list__banner-placement is24-banner">
+		<span class="result-list-entry__new-flag margin-right-xs">NEU</span>
+		
+Search div :-
+
+<div class="main-search__content main-search__content--oss">
+		<div class="content-wrapper">
+			<div id="oss-container" class="oss-container" data-home-module="oneStepSearch">
+			
+
+
+
+ <div class="grid-item oss-layer-one-whole oss-no-layer-seven-twelfths"> 
+      <div class="oss-location-container absolute-reference"> 
+       <input type="text" tabindex="2" placeholder="Wo: Ort, Stadt, Strasse, PLZ oder Scout-ID" autocomplete="off" class="oss-main-criterion oss-location oss-location--with-icons input-text no-mouseflow"> 
+       <span class="oss-current-location-button fa fa-location-arrow"></span> 
+       <span class="oss-clear-input-button fa fa-close"></span> 
+      </div> 
+     </div> 
